@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "_id": 2,
+      "title": "Closure 자세히 공부",
+      "content": "제일 어려웠음",
+      "done": false,
+      "createdAt": "2024.02.19 05:47:30",
+      "updatedAt": "2024.02.19 07:47:30"
+    },
+    {
+      "_id": 3,
+      "title": "Promise 복습",
+      "content": "async/await도 같이 공부",
+      "done": false,
+      "createdAt": "2024.02.19 23:47:30",
+      "updatedAt": "2024.02.20 03:47:30"
+    },
+    {
+      "_id": 4,
+      "title": "React 예습",
+      "content": "수업 전에 기본 개념부터 미리 확인.",
+      "done": false,
+      "createdAt": "2024.02.21 10:47:30",
+      "updatedAt": "2024.02.21 12:47:30"
+    },
+    {
+      "_id": 5,
+      "title": "1 javascript 공부하기",
+      "done": false,
+      "createdAt": "2024.02.26 13:44:50",
+      "updatedAt": "2024.02.26 13:44:50"
+    },
+    {
+      "_id": 6,
+      "title": "123",
+      "done": false,
+      "createdAt": "2024.02.26 14:03:47",
+      "updatedAt": "2024.02.26 14:03:47"
+    }
+  ],
+  "users": [],
+  "nextId": {
+    "items": 6,
+    "users": 1
+  }
+}
